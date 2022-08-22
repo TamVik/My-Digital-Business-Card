@@ -1,0 +1,53 @@
+body {
+    margin: 20px;
+    font-family: 'Quicksand', sans-serif;
+    background-color: #c8b6ff;
+}
+.avatar {
+    width: 220px;
+    display: flex;
+    border-radius: 50px;
+}
+
+h3 {
+    border-top: 1px solid #8d99ae;
+}
+
+.card {
+    width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+    background: linear-gradient(#8d99ae, #2b2d42);
+    color: white;
+    border-bottom: 8px solid #8d99ae;
+    border-radius: 5px;
+}
+
+.contact {
+    display: flex;
+}
+
+.small-text {
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.big-text {
+    font-size: 26px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+img {
+    width: 40px;
+    cursor: pointer;
+}
+
+.border-bottom-line {
+    border-bottom: 1px solid #8d99ae;
+}
